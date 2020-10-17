@@ -6,4 +6,4 @@ Em termos modernos, esse processo é chamado de integração definitiva. A funci
 A biblioteca Quadrature fornece uma API apenas para Swift, com base na estrutura Quadrature, e APIs Swift e Objective-C.
 
 ## Links
-[Quadrature](https://developer.apple.com/documentation/accelerate/quadrature)
+[Documentação Quadrature](https://developer.apple.com/documentation/accelerate/quadrature)
