@@ -8,5 +8,5 @@ A estrutura Accelerate fornece computação de alto desempenho e economia de ene
 - [Quadrature](https://github.com/ronaldogomes96/SwiftMath/tree/main/Quadrature)
 
 ## Links
-- [Pagina inicial](https://developer.apple.com/accelerate/)
+- [Pagina inicial do accelerate](https://developer.apple.com/accelerate/)
 - [Documentação](https://developer.apple.com/documentation/accelerate)
